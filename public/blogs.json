@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co.com/rbVjJ6f/1.jpg",
+      "author": "John Doe",
+      "publish_date": "2024-11-15",
+      "title": "Mastering JavaScript in 30 Days",
+      "reading_time": "8 min",
+      "hashtags": ["#JavaScript", "#Programming"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co.com/rbVjJ6f/1.jpg",
+      "author": "Jane Smith",
+      "publish_date": "2024-10-22",
+      "title": "A Beginner's Guide to React",
+      "reading_time": "12 min",
+      "hashtags": ["#ReactJS", "#Frontend"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co.com/rbVjJ6f/1.jpg",
+      "author": "Alice Johnson",
+      "publish_date": "2024-11-10",
+      "title": "10 Tips for Building Scalable Apps",
+      "reading_time": "6 min",
+      "hashtags": ["#WebDevelopment", "#NodeJS"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co.com/rbVjJ6f/1.jpg",
+      "author": "Bob Wilson",
+      "publish_date": "2024-11-05",
+      "title": "The Future of AI in Software Development",
+      "reading_time": "10 min",
+      "hashtags": ["#AI", "#SoftwareEngineering"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co.com/rbVjJ6f/1.jpg",
+      "author": "Emma Brown",
+      "publish_date": "2024-10-30",
+      "title": "Understanding MongoDB Aggregation Framework",
+      "reading_time": "9 min",
+      "hashtags": ["#MongoDB", "#Database"]
+    }
+  ]
+  
